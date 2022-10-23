@@ -35,7 +35,7 @@ jobs:
         with:
           node-version: "14.x"
 
-       # Install project dependencies
+      # Install project dependencies
       - name: Install dependencies
         run: npm install
 
